@@ -1,3 +1,15 @@
+#title{
+	width: 600px;
+	margin: auto;
+	padding: 10px;
+}
+
+#control{
+	width: 600px;
+	margin: auto;
+	padding: 10px;
+}
+
 #container{
 	width: 600px;
 	margin: auto;
@@ -10,4 +22,12 @@
 	margin: 0;
 	padding: 0;
 	background-color: red;
+}
+
+a {
+	padding: 5px 10px;
+	background-color: #f0f0f0;
+	margin-top: 30px;
+	text-decoration: none;
+	color: #666666;
 }
